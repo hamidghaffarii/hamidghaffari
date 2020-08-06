@@ -1,5 +1,14 @@
 # Hamid Ghaffari
 
+<html>
+<head>
+<title>title of page </title>
+</head>
+<body>
+This is my first home page.<p> This text is bold </p>
+<img src="http://sh-sarakhs.ir/_douranportal/images/%D9%BE%D8%B1%D8%B3%D9%86%D9%84/0819908071.jpg" alt="Hamid Ghaffari">
+</body>
+</html>
 
 IT expert, Sarakhs Municipality <br /> 
 About Me <br /> 
