@@ -39,10 +39,10 @@ Network Programming Linear Programming Systems Programming Genetic Programming
 Awards and honors <br /> 
 
 The first place of Robat Sanatimehr 1390 <br /> 
-Mashhad Spring Non-Profit Institute
+Mashhad Spring Non-Profit Institute <br /> 
 
 Fifth place in the national robotics competition in May 2010 <br /> 
-Noshirvani University of Technology Babol
+Noshirvani University of Technology Babol <br /> 
 Language <br /> 
 Farsi
 English
