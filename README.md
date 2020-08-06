@@ -1,6 +1,6 @@
 # Hamid Ghaffari
 
-Hamid Ghaffari <br /> 
+
 IT expert, Sarakhs Municipality <br /> 
 About Me <br /> 
 There is no failure or you will win or you will learn how to win <br /> 
