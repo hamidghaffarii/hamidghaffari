@@ -55,7 +55,7 @@ Turkish  Resume
 
 <hr />
 
-<p><a href="/assessment/AR_CV_CheckList_AR_3983.pdf">Resume</a></p>
+<p><a href="http://s10.picofile.com/file/8406388668/Hamid_Ghaffari2.pdf.html">Resume</a></p>
 
 
 
