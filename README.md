@@ -50,3 +50,4 @@ Language <br />
 Farsi
 English
 Turkish
+<a href="http://uupload.ir/view/9fdu_hamid_ghaffari.pdf/" target="_blank"><img src="http://uupload.ir/css/images/udl6.png" border="0" alt="دانلود فایل با لینک مستقیم" /></a>
