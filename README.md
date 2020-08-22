@@ -49,5 +49,13 @@ Noshirvani University of Technology Babol <br />
 Language <br /> 
 Farsi
 English
-Turkish
-<a href="http://uupload.ir/view/9fdu_hamid_ghaffari.pdf/" target="_blank"><img src="http://uupload.ir/css/images/udl6.png" border="0" alt="دانلود فایل با لینک مستقیم" /></a>
+Turkish  Resume
+
+<h3 id="resume-assessment">Resume Assessment</h3>
+
+<hr />
+
+<p><a href="/assessment/AR_CV_CheckList_AR_3983.pdf">Resume</a></p>
+
+
+
