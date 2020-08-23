@@ -1,8 +1,8 @@
 # Hamid Ghaffari
 
 
-<img src="http://sh-sarakhs.ir/_douranportal/images/%D9%BE%D8%B1%D8%B3%D9%86%D9%84/0819908071.jpg" alt="Hamid Ghaffari">
-<a href="HamidGhaffari_CV_CheckList_AR_3983 (1).pdf">Download my resume</a>
+<img src="687474703a2f2f73682d736172616b68732e69722f5f646f7572616e706f7274616c2f696d616765732f2544392542452544382542312544382542332544392538362544392538342f303831393930383037312e6a7067.jpg" alt="Hamid Ghaffari">
+<a href="حمید غفاری.pdf">Download my persia resume</a>
 
 IT expert, Sarakhs Municipality <br /> 
 About Me <br /> 
@@ -55,7 +55,7 @@ Turkish  Resume
 
 <hr />
 
-<p><a href="http://s10.picofile.com/file/8406388668/Hamid_Ghaffari2.pdf.html">Resume</a></p>
+<p><a href="HamidGhaffari_CV_CheckList_AR_3983 (1).pdf">Resume</a></p>
 
 
 
